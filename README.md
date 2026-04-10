@@ -1,5 +1,5 @@
 # 4pple-pls-ser0tonin :(
-First ever untethered full-root jailbreak on iOS 18.0 - 18.7.2
+First ever semi-untethered full-root jailbreak on iOS 18.0 - 18.7.2
 
 # How it works:
 *apple left 3 CVE bugs allowing a device to be jailbroken from a website.*
