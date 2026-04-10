@@ -2,7 +2,7 @@
 First ever semi-untethered full-root jailbreak on iOS 18.0 - 18.7.2
 
 # How it works:
-*apple left 3 CVE bugs allowing a device to be jailbroken from a website.*
+*apple left 4 CVE bugs allowing a device to be jailbroken from a website.*
 ⚠️*this is a massive vulnerability since if it's used by unethical hackers, they will be able to get root access if the 18.x.x is older than 18.7.2*⚠️
 
 *18.7.2 is rootless since the bug that allowed to get root was patched. but other versions work just fine.*
