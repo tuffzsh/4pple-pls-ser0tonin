@@ -20,6 +20,8 @@ First ever semi-untethered full-root jailbreak on iOS 18.0 - 18.7.2
 # Important
 **WILL NOT WORK ON IOS 18.7.2+ SINCE PATCHED**
 
+**i will not develop any jailbreaks after this one. so yeah. dont update ur 4pple device if u wanna get it xDDD**
+
 Copyright (c) 2026 [tuffzsh]. All rights reserved.
 
 Fork for personal use only. No redistribution, modification, or commercial use without explicit permission. Just ask me first. I'm nice. :(
