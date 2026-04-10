@@ -28,4 +28,9 @@ Fork for personal use only. No redistribution, modification, or commercial use w
 
 
 # for apple!1!!1!!!!!!!11
-**if u wanna take this thingy thingy down pls contact meh!!! github will give u my email :D**
+**if u wanna take this jailbreak down pls contact meh!!! github will give u my email :D**
+However, established:
+
+I am a minor
+
+You left my country
