@@ -25,3 +25,7 @@ First ever semi-untethered full-root jailbreak on iOS 18.0 - 18.7.2
 Copyright (c) 2026 [tuffzsh]. All rights reserved.
 
 Fork for personal use only. No redistribution, modification, or commercial use without explicit permission. Just ask me first. I'm nice. :(
+
+
+# for apple!1!!1!!!!!!!11
+**if u wanna take this thingy thingy down pls contact meh!!! github will give u my email :D**
