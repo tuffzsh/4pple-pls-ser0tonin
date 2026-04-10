@@ -14,3 +14,11 @@ First ever untethered full-root jailbreak on iOS 18.0 - 18.7.2
 >3	CVE-2025-43510	Kernel memory corruption (Copy-On-Write flaw) — gives kernel read/write	iOS 18.7.2	✅ UNPATCHED
 >
 >4	CVE-2025-43520	Kernel privilege escalation — gives full root + platform entitlements	iOS 18.7.2	✅ UNPATCHED
+
+
+# Important
+**WILL NOT WORK ON IOS 18.7.2+ SINCE PATCHED
+
+Copyright (c) 2026 [tuffzsh]. All rights reserved.
+
+Fork for personal use only. No redistribution, modification, or commercial use without explicit permission. Just ask me first. I'm nice. :(
