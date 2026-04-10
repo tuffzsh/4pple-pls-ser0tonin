@@ -17,7 +17,7 @@ First ever untethered full-root jailbreak on iOS 18.0 - 18.7.2
 
 
 # Important
-**WILL NOT WORK ON IOS 18.7.2+ SINCE PATCHED
+**WILL NOT WORK ON IOS 18.7.2+ SINCE PATCHED**
 
 Copyright (c) 2026 [tuffzsh]. All rights reserved.
 
