@@ -3,7 +3,10 @@
 *If i release even a tiny bit, it can be reverse-engineered to use maliciously.*
 *if you can contact apple, if you are reading this, please do me a favor and send them my repo.*
 **i wanna cooperate!**
-**please contact me on surblox2@gmail.com, sadkiotzzz@gmail.com, sadkiotzzzp@gmail.com, or myahhbigbun@gmail.com**
+**please contact me on surblox2@gmail.com, sadkiotzzz@gmail.com, sadkiotzzzp@gmail.com, or myahhbigbun@gmail.com .**
+
+**if yall need a more secure way to contact me, please reach out to the gmail's and tell me about it.**
+**and also, this should be patched quickly.**
 
 
 # 4pple-pls-ser0tonin :(
