@@ -1,3 +1,10 @@
+# Project discontinued
+**yes. after 16 hours its already a decision.**
+*If i release even a tiny bit, it can be reverse-engineered to use maliciously.*
+*if you can contact apple, if you are reading this, please do me a favor and send them my repo.*
+**i wanna cooperate!**
+
+
 # 4pple-pls-ser0tonin :(
 First ever semi-untethered full-root jailbreak on iOS 18.0 - 18.7.2
 
